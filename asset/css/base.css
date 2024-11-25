@@ -1,0 +1,26 @@
+:root {
+    --main-color: #FFE145;
+    --iconHeader-color: #9093A6;
+    --background-color: #FFFFFF;
+    --section-color: #F2F4FA;
+    --button-color: #c3c3c3;
+    --footer-color: #3F4255;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    /* border: 1px solid black; */
+    width: 100%;
+    max-width: 90%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
